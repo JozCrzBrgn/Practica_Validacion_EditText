@@ -1,2 +1,2 @@
 # Practica_Validacion_EditText
- Se valida un PlainText y un Password
+ App que valida un PlainText y un Password
