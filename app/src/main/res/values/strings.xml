@@ -1,0 +1,10 @@
+<resources>
+    // App
+    <string name="app_name">Login_basico</string>
+    // PlainText
+    <string name="xml_nombre">Nombre</string>
+    // Password
+    <string name="xml_pass">Contraseña</string>
+    // Button
+    <string name="xml_butn">Registrar</string>
+</resources>
